@@ -1,3 +1,5 @@
+//Programmer: Rini K
+
 package com.example.spring_portfolio.minilabs;
 import java.util.Scanner;
 import java.io.*;
