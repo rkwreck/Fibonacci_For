@@ -14,7 +14,7 @@ abstract class Fibonacci {
         int fNum = Integer.parseInt(fib);
         int num2 = 1;
         int count = 0;
-        int product = 1;
+        int product = 1;       //add something unique
 
         for (int num1 = 0; count < fNum; count ++) {
             System.out.println(num1 + " ");
