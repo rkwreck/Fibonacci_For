@@ -15,12 +15,9 @@ abstract class Fibonacci {
         int num2 = 1;
         int count = 0;
         int product = 1;
-        int [] sumArray = {};
 
         for (int num1 = 0; count < fNum; count ++) {
             System.out.println(num1 + " ");
-            //sumArray.add(num1);      //add the number to the array
-            sumArray.toString(num1);
             int sum = num1 + num2;      //add the next number
             num1 = num2;        //swap
             num2 = sum;
